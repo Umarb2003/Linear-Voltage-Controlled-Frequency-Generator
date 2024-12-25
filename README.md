@@ -1,1 +1,5 @@
 # Linear-Voltage-Controlled-Frequency-Generator
+
+This project focuses on the design, simulation, and implementation of a Linear Voltage-Controlled Multi-function Waveform Generator capable of producing triangular and square waveforms. The generator features adjustable frequency ranges of 100 Hz–3100 Hz and 20 Hz–620 Hz, with a user-controlled voltage input range from 0.1 V to 5 V. Key components include LM741 and LM318 op-amps, 0.01 µF capacitors, and a DC-to-DC converter, integrated into a self-sustaining circuit. Performance was validated through simulations in Multisim and in-lab testing using oscilloscopes and multimeters, achieving precise output waveforms with minimal error. Milestones included constructing and combining subcircuits such as integrators, bistable multivibrators, and gain control buffers. The final design demonstrated reliable functionality and adaptability for frequency and amplitude control, meeting all specified technical requirements.
+
+Please refer to the attached [PDF] report file for more information on the project.
