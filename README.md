@@ -11,4 +11,7 @@ The final circuit design displayed in Multisim and on breadboard are pictured be
 
 Please refer to the attached [PDF] report file for more information on the project.
 
+The link to the pdf report file has been provided below for easy access.
+
+link: https://github.com/Umarb2003/Linear-Voltage-Controlled-Frequency-Generator/blob/main/ELE504%20MP%20Final%20Report.docx%20(1).pdf
 
